@@ -1,7 +1,7 @@
 {
   "name": "npm-reaper",
   "version": "0.1.0",
-  "private": true,
+  "private": false,
   "description": "Two test React components",
   "author": "Gyanendra",
   "main": "dist/index.js",
